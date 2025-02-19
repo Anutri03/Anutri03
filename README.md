@@ -81,3 +81,9 @@
   <img src="https://komarev.com/ghpvc/?username=Anutri03&color=blueviolet&style=flat-square" alt="Profile Views"/>
   <p>🌟 <em>"Data is the new oil, but only if refined properly!"</em> 🌟</p>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
