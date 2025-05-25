@@ -57,6 +57,20 @@
 - End-to-end data analysis project with sklearn pipeline
 - Created interactive visualization dashboard
 
+#### [🧠 Brain Tumor Detection using CNN (TensorFlow)](projects/brain-tumor-detection)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00) ![CNN](https://img.shields.io/badge/-CNN-FF1493) ![Medical Imaging](https://img.shields.io/badge/-Medical_Imaging-9400D3)
+- Built a deep learning model to classify brain MRI images into tumor categories
+- Achieved over **95% accuracy** using TensorFlow with data augmentation & regularization
+- Applied quantization and pruning for faster inference
+- [🧪 Live Demo](https://colab.research.google.com/your-demo-link) | [📂 View Code](projects/brain-tumor-detection)
+
+#### [🧥 Clothing GAN - Fashion Image Generation](projects/clothing-gan)
+![GAN](https://img.shields.io/badge/-GAN-8A2BE2) ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-FF8C00)
+- Trained a **DCGAN** to generate realistic fashion clothing images from noise
+- Used **PyTorch** and image dataset preprocessing techniques
+- Visualized training with TensorBoard and evaluated FID scores
+- [🧵 Explore Results](projects/clothing-gan) | [🧠 GAN Walkthrough](projects/clothing-gan/notebook.ipynb)
+
 ---
 
 ### 📚 **Education & Certifications**
