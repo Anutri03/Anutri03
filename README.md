@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Anurag+Tripathi;Data+Science+Graduate+%7C+AI%2FML+Developer+%7C+Deep+Learning+Enthusiast" alt="Animated Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=22D3EE&width=600&lines=Hi+👋+I'm+Anurag+Tripathi;Data+Science+%7C+AI/ML+Developer" />
 </p>
-
 
 ---
 
