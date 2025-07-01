@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anurag-tripathi-284934320)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragyt4321@gmail.com)
-[![Resume](https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge)](https://drive.google.com/your-resume-link)
+[![Resume](https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge)](https://drive.google.com/file/d/1AGZdvEugNrmKo9TvfHasVocyScAEBMQ8/view?usp=sharing)
 <a href="https://anutri03.github.io/My-Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-30363D?style=for-the-badge&logo=firefox-browser&logoColor=white&color=0ea5e9" alt="Portfolio Badge"/>
 </a>
