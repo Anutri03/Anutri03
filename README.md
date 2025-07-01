@@ -14,7 +14,7 @@
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragyt4321@gmail.com)
 [![Resume](https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge)](https://drive.google.com/your-resume-link)
 <a href="https://anutri03.github.io/My-Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B&color=3B82F6" alt="Visit My Portfolio"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-30363D?style=for-the-badge&logo=firefox-browser&logoColor=white&color=0ea5e9" alt="Portfolio Badge"/>
 </a>
 
 ---
