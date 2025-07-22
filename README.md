@@ -7,10 +7,10 @@
 ### 🚀 **About Me**
 
 🎓 **Recent BCA Graduate** in *Data Science & Artificial Intelligence* (CGPA: 7.9/10)  
-🧠 Strong foundation in **ML/DL**, **Generative AI**, **NLP**, and **Data Visualization**  
-💼 Completed multiple internships involving real-world AI & analytics challenges  
-🎯 Focused on building scalable AI products that solve real problems  
-🎨 On the side: I enjoy **video editing** and **visual storytelling** with **Canva Pro**  
+🧠 Strong foundation in **Machine Learning**, **Deep Learning**, **NLP**, and **Generative AI**  
+💼 Completed multiple internships in real-world ML, analytics, and full-stack AI projects  
+🎯 Passionate about transforming raw data into business value with scalable solutions  
+🎨 Also enjoy **video editing**, **graphic design**, and building aesthetic dashboards  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anurag-tripathi-284934320)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragyt4321@gmail.com)
@@ -21,20 +21,20 @@
 
 ### 🛠️ **Tech Stack**
 
-#### 🤖 **Machine Learning & Deep Learning**
+#### 🤖 Machine Learning & Deep Learning
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
-#### 📊 **Data Tools & Visualization**
+#### 📊 Data Tools & Visualization
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-#### ⚙️ **Development Tools**
+#### ⚙️ Dev Tools & Frameworks
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
@@ -45,7 +45,29 @@
 
 ### 📌 **Featured Projects**
 
-... *(Project section unchanged; see previous message)*
+#### 🧠 Brain Tumor Detection with CNN
+- Built CNN model with **95%+ accuracy** on MRI scan classification  
+- Used **TensorFlow**, data augmentation, and quantization for speed  
+- [🧪 Live Demo](https://colab.research.google.com/your-demo-link) | [📂 View Code](projects/brain-tumor-detection)
+
+#### 📉 Customer Churn Prediction
+- Achieved **89% precision** using Random Forest for telecom churn  
+- Feature engineering, hyperparameter tuning, and EDA  
+- [📈 View Notebook](projects/churn-prediction/analysis.ipynb)
+
+#### 💰 Loan Eligibility Prediction
+- End-to-end ML pipeline using Logistic Regression and dashboard visualizations  
+- Streamlined data cleaning, transformation, and evaluation
+
+#### 📲 Twitter Sentiment Analysis
+- Trained **LSTM** model for classifying tweet sentiment with 92% accuracy  
+- Used Keras with preprocessing pipeline for text classification  
+- [▶️ Try Demo](https://colab.research.google.com/your-link) | [📂 View Code](projects/sentiment-analysis)
+
+#### 🧥 Clothing Image Generation with DCGAN
+- Generated realistic clothing images from noise using **PyTorch GANs**  
+- Tracked performance via **TensorBoard** and **FID scores**  
+- [🧵 Explore Results](projects/clothing-gan) | [🧠 GAN Walkthrough](projects/clothing-gan/notebook.ipynb)
 
 ---
 
@@ -53,41 +75,43 @@
 
 #### 🎓 Bachelor of Computer Applications – Data Science & AI  
 *Babu Banarasi Das University, Lucknow*  
-*Sept 2022 – May 2025* | `CGPA: 7.9/10`  
+📅 Sept 2022 – May 2025 | 🎯 CGPA: 7.9/10  
 
-#### 🧾 Certifications  
-![IBM](https://img.shields.io/badge/IBM_Cognos-052FAD?logo=ibm) ![Big Data](https://img.shields.io/badge/IBM_Big_Data-FF6D4A)  
-![SQL](https://img.shields.io/badge/SQL_Certified(Udemy)-003B57?logo=mysql) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
+#### 📜 Certifications  
+- IBM: Cognos BI, Big Data, AI Engineering  
+- Udemy: Advanced SQL  
+- Great Learning: Python, Machine Learning  
+- Flutter Development Bootcamp (in progress)
 
 ---
 
-### 💼 **Internships**
+### 💼 **Internship Experience**
 
-#### 🔹 **Data Science Intern – HCLTech**  
-- Built predictive models for structured datasets  
-- Automated data cleaning workflows with Python  
+#### 🏢 HCLTech – Data Science Intern  
+- Automated feature engineering and data pipelines using Python  
+- Worked on classification model development and model evaluation techniques  
 
-#### 🔹 **ML Intern – Digipodium, Lucknow**  
-- Developed projects like Brain Tumor Detection using CNN  
-- Learned full-stack ML pipeline including preprocessing, modeling, and deployment  
+#### 🧠 Digipodium – Machine Learning Intern  
+- Brain Tumor Detection project using CNN  
+- Full ML lifecycle: preprocessing, training, testing, Flask deployment  
 
-#### 🔹 **Capstone Project – Boston Institute of Analytics**  
-- Fraud Detection System for mobile transactions  
-- Used advanced feature engineering, ML model tuning, and Streamlit app deployment  
+#### 📊 Boston Institute of Analytics – Capstone Researcher  
+- Built a fraud detection system using supervised learning  
+- Created Power BI dashboard and Streamlit web app  
 
-#### 🔹 **Data Analytics Intern – Spinnaker Analytics**  
-- Project: Used Car Price Prediction  
-- Performed full EDA, feature engineering, and modeled with Random Forest, Decision Tree & Linear Regression
+#### 🚗 Spinnaker Analytics – Data Analyst Intern  
+- Used Car Price Prediction using regression models  
+- Delivered insights using visualizations and exploratory data analysis  
 
 ---
 
 ### 🏆 **Achievements & Awards**
 
-- 🥇 **Finalist** – Inter-college AI Hackathon at Digipodium  
-- 🧠 Recognized by faculty for “Best Capstone Project” at Boston Institute of Analytics  
-- 💡 Consistently rated 5/5 in internship evaluations (HCL & Spinnaker)  
-- 📈 Ranked Top 5 in Machine Learning presentation among 100+ BCA students  
-- ✨ Delivered seminar on Generative AI at university Tech Fest  
+🏅 Finalist – Digipodium Inter-college Hackathon  
+🎖️ Best Capstone Project – Boston Institute of Analytics  
+🎯 5/5 Intern Ratings – HCLTech & Spinnaker  
+💬 Invited Speaker – Generative AI Session at University Tech Fest  
+📌 Top 5 ML Project Presenter (100+ students)  
 
 ---
 
