@@ -4,8 +4,16 @@
 
 ---
 
-### 🚀 **About Me**
-🎓 Fresh BCA Graduate in **Data Science & AI** (CGPA: 7.9/10)  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anutri03&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <p>🌟 <em>"Data is the new oil, but only if refined properly!"</em> 🌟</p>
+</div>
+
+---
+
+## 🚀 About Me
+
+🎓 **Fresh BCA Graduate** in **Data Science & AI** (CGPA: 7.9/10)  
 🔭 Currently exploring **Generative AI** and **NLP applications**  
 📊 Passionate about transforming raw data into actionable insights  
 🎨 Creative side: Video Editing & Graphic Design (Canva Pro)  
@@ -13,71 +21,71 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anurag-tripathi-284934320)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragyt4321@gmail.com)
 [![Resume](https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge)](https://drive.google.com/file/d/1AGZdvEugNrmKo9TvfHasVocyScAEBMQ8/view?usp=sharing)
-<a href="https://anutri03.github.io/My-Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-30363D?style=for-the-badge&logo=firefox-browser&logoColor=white&color=0ea5e9" alt="Portfolio Badge"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-30363D?style=for-the-badge&logo=firefox-browser&logoColor=white&color=0ea5e9)](https://anutri03.github.io/My-Portfolio/)
 
 ---
 
-### 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
-#### 🤖 **Machine Learning**
+### 🤖 Machine Learning & AI
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
-#### 📊 **Data Tools**
+### 📊 Data Tools
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-#### ⚙️ **Other Tools**
+### ⚙️ Other Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 
 ---
 
-### 🏻 **Featured Projects**
+## 🏆 Featured Projects
 
-#### [🧠 Twitter Sentiment Analysis](projects/sentiment-analysis)
+### [🧠 Twitter Sentiment Analysis](projects/sentiment-analysis)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![LSTM](https://img.shields.io/badge/-LSTM-FF6F00) ![NLP](https://img.shields.io/badge/-NLP-4DC730)
-- Built LSTM model with **92% accuracy** for sentiment classification
-- Implemented text preprocessing pipeline with TensorFlow/Keras
-- [▶️ Try Live Demo](https://colab.research.google.com/your-link) | [📂 View Code](projects/sentiment-analysis)
+- Built an LSTM model with **92% accuracy** for sentiment classification
+- Implemented a robust text preprocessing pipeline with TensorFlow/Keras
+- [▶️ Live Demo](https://colab.research.google.com/your-link) | [📂 View Code](projects/sentiment-analysis)
 
-#### [📉 Customer Churn Prediction](projects/churn-prediction)
+### [📉 Customer Churn Prediction](projects/churn-prediction)
 ![Random Forest](https://img.shields.io/badge/-Random_Forest-017A4B) ![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E)
-- Developed predictive model with **89% precision** for telecom company
+- Developed a predictive model with **89% precision** for a telecom company
 - Performed feature engineering & hyperparameter tuning
 - [📈 View Analysis](projects/churn-prediction/analysis.ipynb)
 
-#### [💰 Loan Eligibility Predictor](projects/loan-prediction)
+### [💰 Loan Eligibility Predictor](projects/loan-prediction)
 ![Logistic Regression](https://img.shields.io/badge/-Logistic_Regression-FF6F00) ![EDA](https://img.shields.io/badge/-EDA-2496ED)
 - End-to-end data analysis project with sklearn pipeline
-- Created interactive visualization dashboard
+- Created an interactive visualization dashboard
 
-#### [🧠 Brain Tumor Detection using CNN (TensorFlow)](projects/brain-tumor-detection)
+### [🧠 Brain Tumor Detection using CNN (TensorFlow)](projects/brain-tumor-detection)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00) ![CNN](https://img.shields.io/badge/-CNN-FF1493) ![Medical Imaging](https://img.shields.io/badge/-Medical_Imaging-9400D3)
 - Built a deep learning model to classify brain MRI images into tumor categories
 - Achieved over **95% accuracy** using TensorFlow with data augmentation & regularization
 - Applied quantization and pruning for faster inference
 - [🧪 Live Demo](https://colab.research.google.com/your-demo-link) | [📂 View Code](projects/brain-tumor-detection)
 
-#### [🧥 Clothing GAN - Fashion Image Generation](projects/clothing-gan)
+### [🧥 Clothing GAN - Fashion Image Generation](https://github.com/Anutri03/ClothingGan)
 ![GAN](https://img.shields.io/badge/-GAN-8A2BE2) ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-FF8C00)
 - Trained a **DCGAN** to generate realistic fashion clothing images from noise
-- Used **PyTorch** and image dataset preprocessing techniques
+- Used **PyTorch** and advanced image dataset preprocessing techniques
 - Visualized training with TensorBoard and evaluated FID scores
-- [🧵 Explore Results](projects/clothing-gan) | [🧠 GAN Walkthrough](projects/clothing-gan/notebook.ipynb)
+- [🧵 Explore Results](https://github.com/Anutri03/ClothingGan) | [🧠 GAN Walkthrough](projects/clothing-gan/notebook.ipynb)
 
 ---
 
-### 📚 **Education & Certifications**
+## 📚 Education & Certifications
 
-#### **Bachelor of Computer Applications** (Data Science & AI)  
+**Bachelor of Computer Applications** (Data Science & AI)  
 *Sept 2022 - May 2025*  
 `CGPA: 7.9/10` | Spring Dale Public School  
 
@@ -86,21 +94,24 @@
 
 ---
 
-### 📈 **GitHub Stats**
+## 📈 GitHub Stats
 
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anutri03&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anutri03&layout=compact&theme=vision-friendly-dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anutri03&show_icons=true&theme=radical" alt="Anurag's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anutri03&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anutri03&color=blueviolet&style=flat-square" alt="Profile Views"/>
-  <p>🌟 <em>"Data is the new oil, but only if refined properly!"</em> 🌟</p>
-</div>
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+---
+
+> 💬 *Let's connect and collaborate on exciting AI and data science projects!*
