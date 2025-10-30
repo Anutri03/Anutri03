@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/anurag-tripathi03)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anuragyt4321@gmail.com)
 [![Resume](https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge)](https://drive.google.com/file/d/1cGw9n9BGPLF-56NbW1Cgw3fSbGLLzYcN/view?usp=sharing)
-[![🌐 Portfolio](https://img.shields.io/badge/🌐_Portfolio-30363D?style=for-the-badge\&logo=firefox-browser\&logoColor=white\&color=0ea5e9)](https://anutri03.github.io/My-Portfolio)
+[![🌐 Portfolio](https://img.shields.io/badge/🌐_Portfolio-30363D?style=for-the-badge\&logo=firefox-browser\&logoColor=white\&color=0ea5e9)]([https://anutri03.github.io/My-Portfolio](https://anuragtripathi03.netlify.app/))
 
 ---
 
